@@ -1,0 +1,24 @@
+version: "3.8"
+services:
+  backend:
+    build:
+      context: ./Backend
+      dockerfile: Dockerfile
+    container_name: authflow-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - NODE_ENV=development
+      - MONGODB_URI=mongodb+srv://nakshatramanglik14:naksh1414@cluster0.t2jj2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      - JWT_SECRET=thisisnotasecretbutasafeoneistheoneintheenvfile
+      - JWT_EXPIRES_IN=24h
+    volumes:
+      - ./Backend:/app
+      - /app/node_modules
+    networks:
+      - authflow-network
+    restart: unless-stopped
+
+networks:
+  authflow-network:
+    driver: bridge

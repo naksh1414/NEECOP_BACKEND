@@ -1,0 +1,293 @@
+2025-01-10 16:11:39 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:14:51 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:15:20 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:15:52 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:16:35 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:17:21 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:19:05 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:19:09 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:19:13 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:19:16 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:19:21 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:19:23 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:19:29 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:27:54 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:28:02 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:28:10 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:28:32 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:28:46 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:29:06 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 16:31:35 error: CustomError: Invalid authentication
+    at authenticate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/middlewares/auth.middleware.ts:21:13)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 12:46:25 error: CustomError: Invalid authentication
+    at authenticate (/app/dist/middlewares/auth.middleware.js:11:19)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:346:12)
+    at next (/app/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/app/node_modules/express/lib/router/index.js:175:3)
+    at router (/app/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 12:46:41 error: Login failed
+2025-01-10 12:46:41 error: CustomError: Invalid credentials
+    at AuthService.login (/app/dist/services/auth.service.js:112:23)
+    at async login (/app/dist/controllers/auth.controller.js:27:28)
+2025-01-10 12:46:51 error: Login failed
+2025-01-10 12:46:51 error: CustomError: Invalid credentials
+    at AuthService.login (/app/dist/services/auth.service.js:112:23)
+    at async login (/app/dist/controllers/auth.controller.js:27:28)
+2025-01-10 12:47:12 error: Registration failed: Email already registered
+2025-01-10 12:47:12 error: CustomError: Email already registered
+    at AuthService.registerApplicant (/app/dist/services/auth.service.js:60:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async register (/app/dist/controllers/auth.controller.js:10:28)
+2025-01-10 12:47:59 error: Login failed
+2025-01-10 12:47:59 error: CustomError: Invalid credentials
+    at AuthService.login (/app/dist/services/auth.service.js:112:23)
+    at async login (/app/dist/controllers/auth.controller.js:27:28)
+2025-01-10 12:48:06 error: Login failed
+2025-01-10 12:48:06 error: CustomError: Invalid credentials
+    at AuthService.login (/app/dist/services/auth.service.js:112:23)
+    at async login (/app/dist/controllers/auth.controller.js:27:28)
+2025-01-10 12:49:18 error: CustomError: Invalid authentication
+    at authenticate (/app/dist/middlewares/auth.middleware.js:11:19)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:346:12)
+    at next (/app/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/app/node_modules/express/lib/router/index.js:175:3)
+    at router (/app/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 12:54:12 error: CustomError: Invalid authentication
+    at authenticate (/app/dist/middlewares/auth.middleware.js:11:19)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:346:12)
+    at next (/app/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/app/node_modules/express/lib/router/index.js:175:3)
+    at router (/app/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 13:22:45 error: CustomError: Invalid authentication
+    at authenticate (/app/dist/middlewares/auth.middleware.js:11:19)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:346:12)
+    at next (/app/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/app/node_modules/express/lib/router/index.js:175:3)
+    at router (/app/node_modules/express/lib/router/index.js:47:12)
+2025-01-10 13:22:51 error: Login failed
+2025-01-10 13:22:51 error: CustomError: Invalid credentials
+    at AuthService.login (/app/dist/services/auth.service.js:112:23)
+    at async login (/app/dist/controllers/auth.controller.js:27:28)
+2025-01-10 13:30:59 error: Login failed
+2025-01-10 13:30:59 error: CustomError: Invalid credentials
+    at AuthService.login (/app/dist/services/auth.service.js:112:23)
+    at async login (/app/dist/controllers/auth.controller.js:27:28)

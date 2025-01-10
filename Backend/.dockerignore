@@ -1,0 +1,55 @@
+
+# Dependencies
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Version control
+.git
+.gitignore
+
+# IDE specific files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Build output
+dist
+build
+*.tsbuildinfo
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose*
+
+# Testing
+coverage
+*.test.ts
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Cache directories
+.npm
+.eslintcache

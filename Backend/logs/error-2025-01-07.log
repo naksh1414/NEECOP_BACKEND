@@ -1,0 +1,69 @@
+2025-01-07 01:45:24 error: Registration failed
+2025-01-07 01:45:24 error: CustomError: Registration failed
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:139:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
+2025-01-07 01:46:01 error: Registration failed
+2025-01-07 01:46:01 error: CustomError: Registration failed
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:139:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
+2025-01-07 01:46:26 error: Registration failed
+2025-01-07 01:46:26 error: CustomError: Registration failed
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:139:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
+2025-01-07 01:47:06 error: Registration failed 2
+2025-01-07 01:47:06 error: CustomError: Registration failed 1
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:139:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
+2025-01-07 01:48:29 error: Registration failed 2
+2025-01-07 01:48:29 error: CustomError: Registration failed 1
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:139:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
+2025-01-07 01:51:05 error: Registration failed: User validation failed: email: Cannot read properties of undefined (reading 'test')
+2025-01-07 01:51:05 error: User validation failed: email: Cannot read properties of undefined (reading 'test')
+ValidationError: User validation failed: email: Cannot read properties of undefined (reading 'test')
+    at model.Document.invalidate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/document.js:3331:32)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/document.js:3092:17
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/schemaType.js:1407:9
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-07 01:51:05 error: CustomError: Registration failed: An unexpected error occurred
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:145:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
+2025-01-07 01:53:26 error: Registration failed: User validation failed: email: Cannot read properties of undefined (reading 'test')
+2025-01-07 01:53:26 error: User validation failed: email: Cannot read properties of undefined (reading 'test')
+ValidationError: User validation failed: email: Cannot read properties of undefined (reading 'test')
+    at model.Document.invalidate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/document.js:3331:32)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/document.js:3092:17
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/schemaType.js:1407:9
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-07 01:53:26 error: CustomError: Registration failed: An unexpected error occurred
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:145:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
+2025-01-07 01:53:29 error: Registration failed: User validation failed: email: Cannot read properties of undefined (reading 'test')
+2025-01-07 01:53:29 error: User validation failed: email: Cannot read properties of undefined (reading 'test')
+ValidationError: User validation failed: email: Cannot read properties of undefined (reading 'test')
+    at model.Document.invalidate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/document.js:3331:32)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/document.js:3092:17
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/schemaType.js:1407:9
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-07 01:53:29 error: CustomError: Registration failed: An unexpected error occurred
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:145:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
+2025-01-07 01:53:52 error: Registration failed: User validation failed: email: Cannot read properties of undefined (reading 'test')
+2025-01-07 01:53:52 error: User validation failed: email: Cannot read properties of undefined (reading 'test')
+ValidationError: User validation failed: email: Cannot read properties of undefined (reading 'test')
+    at model.Document.invalidate (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/document.js:3331:32)
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/document.js:3092:17
+    at /home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/node_modules/mongoose/lib/schemaType.js:1407:9
+    at processTicksAndRejections (node:internal/process/task_queues:85:11)
+2025-01-07 01:53:52 error: CustomError: Registration failed: An unexpected error occurred
+    at AuthService.registerApplicant (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/services/auth.service.ts:145:13)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at register (/home/nakshatra/Desktop/NEECOP_ASSIGNMENT/Backend/src/controllers/auth.controller.ts:9:22)
